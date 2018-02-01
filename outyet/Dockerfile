@@ -1,2 +1,2 @@
-FROM golang:onbuild
+FROM 192.168.2.254:5000/golang:onbuild
 EXPOSE 8080
