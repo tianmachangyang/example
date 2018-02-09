@@ -1,5 +1,6 @@
 # Go example projects
-#mytest
+#mytest1
+#mytest2
 This repository contains a collection of Go programs and libraries that
 demonstrate the language, standard libraries, and tools.
 
